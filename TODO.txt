@@ -6,7 +6,7 @@ TODO's:
 
 3.TODO: Array: [1, 1, 1, 1, 1]  //done
 
-4.TODO: Array: [1,2,3] We forgot to add this condition
+4.TODO: Array: [1, 2, 3]  //We forgot to add this condition //done
 
 5.TODO: Array: [4, 5, 2, 2]
 
