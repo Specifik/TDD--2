@@ -2,7 +2,7 @@ TODO's:
 
 1.TODO: Array is empty  //done
 
-2.TODO: Array: [4, 5, 3, 3, 1, 6, 4, 2]
+2.TODO: Array: [4, 5, 3, 3, 1, 6, 4, 2]  //done
 
 3.TODO: Array: [1, 1, 1, 1, 1]
 
