@@ -1,0 +1,13 @@
+TODO's:
+
+1.TODO: Array is empty 
+
+2.TODO: Array: [4, 5, 3, 3, 1, 6, 4, 2]
+
+3.TODO: Array: [1, 1, 1, 1, 1]
+
+4.TODO: Array: [4, 5, 2, 2]
+
+5.TODO: Array: [6, 6, 3, 3, 2]
+
+6.TODO: Array: [5, 3, 5, 5]
