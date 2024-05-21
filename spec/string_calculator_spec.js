@@ -12,4 +12,8 @@ describe('ElectronsAroundTheCores', function () {
         var dicesArray = [4, 5, 3, 3, 1, 6, 4, 2];
         expect(searcher.findElectrons(dicesArray)).toEqual('The Array Should not have more than 6 values');     
     })
+    it ("should return Zero if the dicesArray has no dices values with electrons", function () {
+        var dicesArray = [1, 1, 1, 1, 1];
+        expect(searcher.findElectrons(dicesArray)).toEqual(0);     
+    })
 });
