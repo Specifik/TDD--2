@@ -12,8 +12,10 @@ ElectronsAroundTheCores.prototype.findElectrons = function (dicesArray) {
     {
         let counter = 0;
         dicesArray.forEach(value => {
-            if(value == 5){
+            if(value == 5 ){
                 counter += 4;
+            } else if(value == 3){
+                counter += 2;
             }
         });
         return counter;

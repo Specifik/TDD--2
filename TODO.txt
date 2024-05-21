@@ -10,6 +10,6 @@ TODO's:
 
 5.TODO: Array: [4, 5, 2, 2] -> 4 //done
 
-6.TODO: Array: [6, 6, 3, 3, 2] -> 4
+6.TODO: Array: [6, 6, 3, 3, 2] -> 4 //done
 
 7.TODO: Array: [5, 3, 5, 5] -> 14
