@@ -22,4 +22,8 @@ describe('ElectronsAroundTheCores', function () {
         var dicesArray = [1, 1, 1, 1, 1];
         expect(searcher.findElectrons(dicesArray)).toEqual(0);     
     })
+    it ("should return 4 for this dicesArray", function () {
+        var dicesArray = [4, 5, 2, 2];
+        expect(searcher.findElectrons(dicesArray)).toEqual(4);     
+    })
 });
